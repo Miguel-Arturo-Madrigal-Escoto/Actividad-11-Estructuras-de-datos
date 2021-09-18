@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1602271420 source:c:\users\pc\documents\estructuras de datos\actividad 11 eda\actividad11\main.cpp
+	<iostream>
+	"notation.h"
+
+1606427106 c:\users\pc\documents\estructuras de datos\actividad 11 eda\actividad11\stack.h
+
+1602223453 c:\users\pc\documents\estructuras de datos\actividad 11 eda\actividad11\notation.h
+	<iostream>
+	<string>
+	"stack.h"
+	"queue.h"
+
+1606427147 c:\users\pc\documents\estructuras de datos\actividad 11 eda\actividad11\queue.h
+
+1606423307 source:c:\users\pc\documents\estructuras de datos\actividad 11 eda\actividad11\notation.cpp
+	"notation.h"
+
